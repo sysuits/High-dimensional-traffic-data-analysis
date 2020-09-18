@@ -7,7 +7,7 @@
 > **同时本项目公开了主要代码和一些标准数据集，欢迎引用。**
 
 
-:point_right: <font color=green size=10>data </font>
+:point_right: <font color=Blue>我是蓝色</font>
 
 
 
