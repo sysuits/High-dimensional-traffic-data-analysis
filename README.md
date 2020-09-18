@@ -6,7 +6,7 @@
 
 > **同时本项目公开了主要代码和一些标准数据集，欢迎引用。**
 
-<i class="fa fa-weixin"></i> data
+<i class="fa fa-weixin"></i> [data]
 
 
 
