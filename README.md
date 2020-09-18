@@ -1,4 +1,6 @@
-# 高维交通大数据模式识别与质量增强（High-dimensional Traffic Data Pattern Recognition and Quality Improvement）
+# 高维交通大数据模式识别与质量增强
+
+本项目由中山大学智能工程学院何兆成教授课题组发起和维护
 
 本项目计划包含的内容（1）教材；（2）课程PPT；（3）实验数据集；（4）代码；（5）已发表的论文。
 
