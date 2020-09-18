@@ -9,6 +9,8 @@
 
 
 <i class="fas fa-spinner fa-2x fa-pulse"></i>
+
+
 <head>
 
 <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>
