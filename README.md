@@ -23,11 +23,11 @@
 
 :point_right: **paper**
 
-- [Spatial-temporal traffic speed patterns discovery and incomplete data recovery via SVD-combined tensor decomposition](https://www.sciencedirect.com/science/article/pii/S0968090X17302966)
+- [Chen, Xinyu, Zhaocheng He, and Jiawei Wang. "Spatial-temporal traffic speed patterns discovery and incomplete data recovery via SVD-combined tensor decomposition." Transportation research part C: emerging technologies 86 (2018): 59-77.](https://www.sciencedirect.com/science/article/pii/S0968090X17302966)
 
-- [A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation](https://www.sciencedirect.com/science/article/pii/S0968090X1830799X)
+- [Chen, Xinyu, Zhaocheng He, and Lijun Sun. "A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation." Transportation research part C: emerging technologies 98 (2019): 73-84.](https://www.sciencedirect.com/science/article/pii/S0968090X1830799X)
 
-- [Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model](https://www.sciencedirect.com/science/article/pii/S0968090X18307757)
+- [Chen, Xinyu, et al. "Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model." Transportation Research Part C: Emerging Technologies 104 (2019): 66-77.](https://www.sciencedirect.com/science/article/pii/S0968090X18307757)
 
 
 
