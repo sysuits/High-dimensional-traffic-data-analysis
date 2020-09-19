@@ -23,7 +23,7 @@
 
 :point_right: **paper**
 
-[首页-简书](http://www.jianshu.com)
+- [Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model](https://www.sciencedirect.com/science/article/pii/S0968090X18307757)
 
 
 
