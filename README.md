@@ -18,6 +18,7 @@
 :point_right: **code**
 
 - BGCP.py
+> 论文《A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation》的公开代码
 - DeepTensorDecomposition.py
 
 > -----------------------------------------------------------------------------------
