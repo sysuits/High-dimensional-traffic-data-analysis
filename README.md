@@ -20,6 +20,9 @@
 - BGCP.py
 > 论文《A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation》的公开代码
 
+- BATF.py
+> 论文《Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model》的公开代码
+
 > -----------------------------------------------------------------------------------
 :point_right: **textbook**
 
