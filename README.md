@@ -9,18 +9,18 @@
 > -----------------------------------------------------------------------------------
 :point_right: **data**
 
-- guangzhou_speed_tensor
+> - guangzhou_speed_tensor
 > 数据描述：广州市路段车速数据集，共214条路段，历时61天，时间窗10min，每天共计144个时间窗，三阶张量大小为214×61×144
-- shanghai_speed_tensor/shanghai_flow_tensor
+> - shanghai_speed_tensor/shanghai_flow_tensor
 > 数据描述：上海市路段车速、流量数据集，共18条路段，历时28天，时间5min，每天共计288个时间窗，三阶张量大小为18×28×288
 
 > -----------------------------------------------------------------------------------
 :point_right: **code**
 
-- BGCP.py
+> - BGCP.py
 > 论文《A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation》的公开代码
 
-- BATF.py
+> - BATF.py
 > 论文《Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model》的公开代码
 
 > -----------------------------------------------------------------------------------
