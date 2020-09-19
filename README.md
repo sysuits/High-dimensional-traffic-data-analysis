@@ -23,6 +23,10 @@
 
 :point_right: **paper**
 
+- [Spatial-temporal traffic speed patterns discovery and incomplete data recovery via SVD-combined tensor decomposition](https://www.sciencedirect.com/science/article/pii/S0968090X17302966)
+
+- [A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation](https://www.sciencedirect.com/science/article/pii/S0968090X1830799X)
+
 - [Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model](https://www.sciencedirect.com/science/article/pii/S0968090X18307757)
 
 
