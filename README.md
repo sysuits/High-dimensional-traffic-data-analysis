@@ -25,7 +25,7 @@
 :point_right: **ppt**
 
 > -----------------------------------------------------------------------------------
-:point_right: **paper**【课题组已发表的论文】
+:point_right: **paper**
 
 - [Chen, Xinyu, Zhaocheng He, and Jiawei Wang. "Spatial-temporal traffic speed patterns discovery and incomplete data recovery via SVD-combined tensor decomposition." Transportation research part C: emerging technologies 86 (2018): 59-77.](https://www.sciencedirect.com/science/article/pii/S0968090X17302966)
 
