@@ -25,9 +25,15 @@
 
 - [Chen, Xinyu, Zhaocheng He, and Jiawei Wang. "Spatial-temporal traffic speed patterns discovery and incomplete data recovery via SVD-combined tensor decomposition." Transportation research part C: emerging technologies 86 (2018): 59-77.](https://www.sciencedirect.com/science/article/pii/S0968090X17302966)
 
+> 主要贡献：提出了结合矩阵SVD的张量分解方法，探讨了张量秩的选取问题
+
 - [Chen, Xinyu, Zhaocheng He, and Lijun Sun. "A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation." Transportation research part C: emerging technologies 98 (2019): 73-84.](https://www.sciencedirect.com/science/article/pii/S0968090X1830799X)
 
+> 主要贡献：提出了贝叶斯张量分解方法，研究了不同阶数的张量对数据修复效果的影响
+
 - [Chen, Xinyu, et al. "Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model." Transportation Research Part C: Emerging Technologies 104 (2019): 66-77.](https://www.sciencedirect.com/science/article/pii/S0968090X18307757)
+
+> 主要贡献：提出了贝叶斯增强张量分解方法，模型具有可解释性
 
 
 
